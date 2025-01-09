@@ -14,8 +14,8 @@
 - **🌟 성과**: 비용 없이 MP3 제작 완료, 출판사 홈페이지에 현재 제공 중.
 
 ### 🔍 프로젝트 참고 자료
-1. **프로젝트 관련 담당자와 주고받은 이메일**  
-   ![관련 메일 스크린샷](evidence/email_screenshot.png)
+1. **프로젝트 관련 담당자와 주고받은 이메일 중 일부**    
+   ![관련 메일 스크린샷](evidence/email_screenshot.png)  
 
 2. **최종 결과물 (출판사 홈페이지)**  
    ![홈페이지 스크린샷](evidence/result_screenshot.png)
